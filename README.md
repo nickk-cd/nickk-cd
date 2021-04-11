@@ -1,2 +1,2 @@
-👋  Hi, I’m Nick Kotok
-👀  I’m interested in programming
+👋 &nbsp;Hi, I’m Nick Kotok\n
+👀 &nbsp;I’m interested in programming\n
